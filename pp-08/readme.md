@@ -12,7 +12,7 @@ A. Photograph of the object (place in the pp-08/ directory and commit).
 
 B. Emotional design levels of your object:
 
-* Visceral:
+* Visceral: It's very cute and approachable.
 
 * Behavioral:
 
