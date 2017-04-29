@@ -8,8 +8,9 @@ Opt for the Paletton Preview mode Default with Text; you can start at this URL i
 
 1. An adjacent color palette for introducing a new console gaming platform
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=5450R0kbUvVmSrv7ypnfrJx4C-E
+Your Rationale: I'm marketing this console to a younger audience so I made the colors more child friendly.
+The pastel colors make it feel very spring like. I think the "cool" colors look better for a gaming system.
 
 2. A triadic color palette for announcing springtime tours at the Chicago Botanical Gardens
 
@@ -25,4 +26,3 @@ Your Rationale:
 
 Your Palette URL:
 Your Rationale:
-
