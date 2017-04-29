@@ -20,8 +20,9 @@ The pastel colors make it feel very spring like. I think the colors work well to
 
 3. A triadic color palette for styling the login page for a private messaging app
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=33y0u1kbChX5WtC9kn9eFc0kM9ZkfnHO5cYraDRxjqwomVr6kfnHO5cYraDRxjqwomVr6
+Your Rationale: I wanted it to look professional with a dark main color. I think the pastel
+accent colors make it pop.
 
 4. A monochromatic color palette for advertising a course on Ruby on Rails
 
