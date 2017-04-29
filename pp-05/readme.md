@@ -26,5 +26,6 @@ accent colors make it pop.
 
 4. A monochromatic color palette for advertising a course on Ruby on Rails
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=1030u0kq6BT6vVoijOZ-DsMHpiq
+Your Rationale: I chose red for obvious reasons. I think I managed to get a good range of
+hues for different tags on the advertisement
