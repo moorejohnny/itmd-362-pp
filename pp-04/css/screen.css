@@ -239,6 +239,7 @@ input[type=submit] {
   padding-left: 5%;
   border-radius: 0.556em; /*  10px/18px */
   line-height: 2.364em;
+  background-color: #555A5C;
 }
 
 #age-verification{
