@@ -5,8 +5,32 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1.0,shrink-to-fit=no" />
   <link rel="stylesheet" media="screen" href="screen.css" />
+  <link rel="stylesheet" href="//basehold.it/26">
 </head>
 <body>
-
+  <form id ="sign-up" method="get" action="#null">
+    <p>
+      Please sign up for our newsletter today!
+    </p>
+    <ol>
+      <li id="input-name">
+        <label for="name">Name</label>
+        <input type="name" name="name" id="name" pattern=".." placehold="First Last"/>
+      </li>
+      <li id="input-number">
+        <label for="phone-number">Phone Number</label>
+        <input type="number" name="number" id="number" placeholder="(XXX)XXX-XXXX"/>
+      </li>
+      <li id="input-dob">
+        <label for="date-of-birth">Date of Birth</label>
+        <input type="date" name="date" id="date-of-birth" placeholder="MM/DD/YYYY" />
+      </li>
+      <center>
+      <li id="input-submit">
+        <input type="submit" name="submit" id="submit" value="Sign Up!" />
+      </li>
+      </center>
+    </ol>
+  </form>
 </body>
 </html>
